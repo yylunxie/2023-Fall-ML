@@ -11,6 +11,7 @@ torchvision = "*"
 ipykernel = "*"
 scipy = "*"
 scikit-learn = "*"
+pexpect = "*"
 
 [dev-packages]
 ipykernel = "*"

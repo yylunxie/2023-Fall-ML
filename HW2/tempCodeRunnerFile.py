@@ -1,0 +1,7 @@
+, i+len(degrees)*(4))
+    # plt.scatter(X, y, edgecolor='b', s=20, label="Samples")
+    # plt.ylim(min(y)-1, max(y)+1)
+    # plt.axhline(y=0, color='r', linestyle='--')
+    # plt.plot(xp, y_pred, label="Polynomial of degree %d" % degree)
+    # plt.xlabel("X", fontsize=16)
+    # plt.ylabel("y", fontsize=16)
