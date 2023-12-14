@@ -10,6 +10,7 @@ torch = "*"
 torchvision = "*"
 ipykernel = "*"
 scipy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
