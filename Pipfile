@@ -12,6 +12,7 @@ ipykernel = "*"
 scipy = "*"
 scikit-learn = "*"
 pexpect = "*"
+opencv-python = "*"
 
 [dev-packages]
 ipykernel = "*"
